@@ -12,7 +12,7 @@ import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 
 @SpringBootTest
-class Jsr223exampleApplicationTests {
+class AppTests {
 
   private ConnectionObject connectionObject;
 
